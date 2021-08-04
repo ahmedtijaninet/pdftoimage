@@ -4,8 +4,8 @@ import sys
 import time
 
 def sources():
-    arr = os.listdir("C:/Users/Core/Desktop/data/source/1/")
-    source = "C:/Users/Core/Desktop/data/source/1/"
+    arr = os.listdir("C:/data/source/1/")
+    source = "C:/data/source/1/"
     return arr,source
 arr, source = sources()
 
